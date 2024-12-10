@@ -4,7 +4,7 @@
 
 ## Graphical Abstract
 
-<img width="1300" alt="Graphical_Abstract_HW_final" src="https://github.com/user-attachments/assets/66647b72-87b0-490b-851b-88d90ba7eb5a">
+<img width="1300" alt="Graphical_Abstract_HW_final" src="https://github.com/NakanoMariko/Dengue-Infected-Mosquito-Detection/blob/main/Graphical_Abstract_HW_final.png">
 
 ## File Description
 
